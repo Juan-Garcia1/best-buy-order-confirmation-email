@@ -1,0 +1,12 @@
+{
+  "name": "best-buy-order-confirmation",
+  "version": "1.0.0",
+  "description": "Best Buy order confirmation email template",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Juan",
+  "license": "ISC",
+  "dependencies": {
+    "mjml": "^4.5.1"
+  }
+}
